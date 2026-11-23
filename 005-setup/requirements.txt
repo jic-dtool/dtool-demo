@@ -4,5 +4,5 @@ dtool-create
 dtool-info
 dtool-s3
 dtool-smb
-git+https://github.com/livMatS/dtool-lookup-api@main#egg=dtool-lookup-api
-git+https://github.com/livMatS/dtool-lookup-client@main#egg=dtool-lookup-client
+git+https://github.com/jic-dtool/dtool-lookup-api@main#egg=dtool-lookup-api
+git+https://github.com/jic-dtool/dtool-lookup-client@main#egg=dtool-lookup-client
